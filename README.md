@@ -61,3 +61,4 @@ Integrated model with Flask UI for real-time predictions
 👨‍💻 Author
 
 Shreyas Deshingkar
+LinkedIn - https://www.linkedin.com/in/shreyas-deshingkar/
