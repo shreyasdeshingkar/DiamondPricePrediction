@@ -20,16 +20,13 @@ To build a machine learning regression model capable of predicting diamond price
 
 # 🔗 Application Link
 
-🌐 Live Web App (if hosted):
 
-https://diamond-price-predictor.demo.app
-(Replace with actual link once deployed)
 
 # 🎥 Descriptive Video
 
-📽 Project Walkthrough / Demo Link:
+https://github.com/user-attachments/assets/fedca819-f2ed-4ec6-a4ee-24cb2b0ca6c6
 
-(Add Google Drive or YouTube link)
+
 
 # 📂 Dataset Used
 
